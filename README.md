@@ -67,7 +67,7 @@ For the next challenge I want to continue to learn more css properties, measurem
 
 ### Useful resources
 
-- [Kevin Powell](https://www.youtube.com/watch?v=rg7Fvvl3taU) - This youtube channel is the best to learn everything about frontend webdevelopment. I have used his videos to tackel  challenging problems and come up with a solution. I heard about [Frontend Mentor](https://www.frontendmentor.io) from one of his videos. 
+- [Kevin Powell](https://www.youtube.com/@KevinPowell/featured) - This youtube channel is the best to learn everything about frontend webdevelopment. I have used his videos to tackel  challenging problems and come up with a solution. I heard about [Frontend Mentor](https://www.frontendmentor.io) from one of his videos. 
 - [W3school](https://www.w3schools.com) - This is an amazing resource for getting brief explanation for your questions. 
 
 - [mdn web docs](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Container_Queries) - This is amazing resource for webdevelopment in general. I have used it to study about media queries.
@@ -79,4 +79,4 @@ For the next challenge I want to continue to learn more css properties, measurem
 
 ## Acknowledgments
 
-Shout out to [Kevin Powell](https://www.youtube.com/watch?v=rg7Fvvl3taU) his videos were inspirational and helpful. 
+Shout out to [Kevin Powell](https://www.youtube.com/@KevinPowell/featured) his videos were inspirational and helpful. 
