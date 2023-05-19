@@ -71,7 +71,6 @@ For the next challenge I want to continue to learn more css properties, measurem
 - [W3school](https://www.w3schools.com) - This is an amazing resource for getting brief explanation for your questions. 
 
 - [mdn web docs](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Container_Queries) - This is amazing resource for webdevelopment in general. I have used it to study about media queries.
-- [stackOverflow](https://stackoverflow.com/)
 ## Author
 
 - [Mesgana Geletu](https://www.your-site.com)
