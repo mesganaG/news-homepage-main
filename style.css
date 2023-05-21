@@ -62,9 +62,12 @@ body {
 .mobile-nav-toggle {
     display: none;
 }
+#darken {
+    display: none;
+}
 
 
-/* For moblile devices */
+/* Media queries For moblile devices */
 @media screen and (max-width:600px){
     
     #darken {
@@ -85,23 +88,23 @@ body {
     #darken p {
         text-indent: -99px;
     }
+
     .nav-links {
+        display: none;
         align-items: left;
         position: absolute;
         right: 0;
         width: 250px;
         min-height: 100%;
         background-color: hsl(36, 100%, 99%);
-        transform: translateX(100%);
+        transform: translateX(200%);
         z-index: 1;
- 
-    
-        
     }
 
     #primary-navigation[data-visible= "true"] {
         transform: translateX(0%);
         transition: transform 350ms ease-out ;
+        display: block;
         
     }
     #darken[data-visible= "true"] {
@@ -132,13 +135,12 @@ body {
     .mobile-nav-toggle {
         display: block;
         background-image: url(assets/images/icon-menu.svg);
-        background-color: hsl(36, 100%, 99%);;
+        background-color: hsl(36, 100%, 99%);
       
         padding: 10px;
         position:absolute;
         border: none;
         width: 3rem;
-
         top: 1.5rem;
         right: 1.5rem;
         z-index: 999;
